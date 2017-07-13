@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+    nginx:
+        image: nginx:latest
+        ports:
+            - '8004:80'
+        links:
+            - php
+        volumes:
+            - ./config/nginx:/etc/nginx/conf.d
+            - ./logs/:/var/log/nginx/
+            - ./code:/code
+
+        restart: always
+
+    php:
+        image: php:7-fpm
+        volumes:
+            - ./code:/code
+        restart: always

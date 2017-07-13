@@ -1,0 +1,11 @@
+2017/07/13 05:18:15 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/php.conf:11
+2017/07/13 05:18:16 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/php.conf:11
+2017/07/13 05:18:17 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/php.conf:11
+2017/07/13 05:18:18 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/php.conf:11
+2017/07/13 05:18:24 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/php.conf:11
+2017/07/13 05:18:26 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/php.conf:11
+2017/07/13 05:18:30 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/php.conf:11
+2017/07/13 05:18:37 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/php.conf:11
+2017/07/13 05:19:05 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/code.conf:11
+2017/07/13 05:19:06 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/code.conf:11
+2017/07/13 05:19:18 [emerg] 1#1: "root" directive is duplicate in /etc/nginx/conf.d/code.conf:11

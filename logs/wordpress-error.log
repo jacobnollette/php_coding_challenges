@@ -1,0 +1,2 @@
+2017/07/13 05:19:41 [error] 7#7: *1 open() "/code/robots.txt" failed (2: No such file or directory), client: 172.21.0.1, server: -, request: "GET /robots.txt?1499923181905 HTTP/1.1", host: "localhost:8004"
+2017/07/13 05:19:42 [error] 7#7: *1 open() "/code/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: -, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8004", referrer: "http://localhost:8004/"
